@@ -1,0 +1,13 @@
+mx.rutgers.com 192.64.4.5 A
+kill.cs.rutgers.edu 182.48.3.2 A
+www.ibm.edu - Error:HOST NOT FOUND
+www.google.com  8.6.4.2 A
+ilovesatita.cs.rutgers.edu 128.666.6.3 A
+eee.re.aed.e 128.60.3.2 A
+no.idea.what - Error:HOST NOT FOUND
+none - Error:HOST NOT FOUND
+this.is.a.test.case 1234.22.11.2 A
+yyyy.rts.es.com.cn 3333.642.35.3 A
+yyyy.rts.es.co.cn - Error:HOST NOT FOUND
+dontknowwhat.to.enter.ee 2.44.5555.6 A
+dontknowwhat.to.enter.e - Error:HOST NOT FOUND

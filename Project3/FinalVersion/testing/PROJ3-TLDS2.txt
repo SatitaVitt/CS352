@@ -1,0 +1,11 @@
+qtse.nter.aws.edu   128.60.3.2  A
+www.rutgers.com   192.64.4.4  A
+mx.rutgers.com 192.64.4.5 A
+grep.cs.princeton.edu 182.49.3.2 A
+www.ibm.com 64.42.3.4 A
+www.google.edu  8.7.45.2 A
+wrw.wrw.rwr.wwdw 43.44.643.2 A
+wr.wtt.ttw.t3.g 242.24.53.2 A
+www.ruegruf.fs 424.56.3.1 A
+ge.ges.hs - NS
+

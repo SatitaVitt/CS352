@@ -1,0 +1,11 @@
+qtsdatacenter.aws.edu   128.60.3.2  A
+www.rutgers.com   192.64.4.4  A
+mx.rutgers.com 192.64.4.5 A
+grep.cs.princeton.edu 182.49.3.2 A
+www.ibm.com 64.42.3.4 A
+www.google.edu  8.7.45.2 A
+rutges.iba.ss.d.com 33.666644.22.2 A
+dontknowwhat.to.enter.ee 2.44.5555.6 A
+printsto.sdf.er.s 55.23.55.2 A
+eee.re.aed.e 128.60.3.2 A
+this.is.a.test.case 1234.22.11.2 A

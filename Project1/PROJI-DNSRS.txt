@@ -1,0 +1,14 @@
+qtsdatacenter.aws.com  128.64.3.2  A
+ilovesatita.cs.rutgers.edu 128.666.6.3 A
+mx.rutgers.edu   192.64.4.2  A
+maximum.math.edu 999.6.5.4 A
+kill.cs.rutgers.edu 182.48.3.2 A
+www.ibm.com 64.42.3.4 A
+www.google.com  8.6.4.2 A
+www.taobao.tianmao.com 5.99.4.3 A
+rutgers.has.cs.major.ec 333.444.2.1 A
+i.love.myself 333.999.876.3 A
+i.ont.know 22222.88.5.3 A
+rutges.iba.ss.d.com 33.666644.22.2 A
+yyyy.rts.es.com.cn 3333.642.35.3 A
+grep.cs.rutgers.edu   -  NS

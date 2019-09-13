@@ -1,0 +1,15 @@
+Error:HOST NOT FOUND.
+Error:HOST NOT FOUND.
+Error:HOST NOT FOUND.
+rutgers.edu 86.95.3.172 A
+www.princeton.edu 159.112.40.146 A
+google.com 19.45.31.54 A
+www.test.org 104.209.216.174 A
+happy.com 109.78.231.33 A
+satitaisthebest.com 224.22.2.1 A
+satita.is.the.best.com 222.33.22.1 A
+Error:HOST NOT FOUND.
+Error:HOST NOT FOUND.
+Error:HOST NOT FOUND.
+dfs.dfsdfsd.edu 234.34.23.2 A
+Error:HOST NOT FOUND.
